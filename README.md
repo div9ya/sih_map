@@ -1,5 +1,5 @@
 <!-- Project Heading -->
-<h1 align="center">🗺️ sih_map</h1>
+<h1 align="center">🗺️ SIH MAP</h1>
 <p align="center">
   <em>Interactive map project for visualizing synthetically generated location-based incidents</em>
 </p>
